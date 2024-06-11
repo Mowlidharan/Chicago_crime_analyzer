@@ -1,4 +1,4 @@
-# Ciago_crime_analyzer
+# Chicago_crime_analyzer
 ## Installation 
 To install and set up this project efficiently, follow these steps:
 
