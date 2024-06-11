@@ -13,7 +13,7 @@ To install and set up this project efficiently, follow these steps:
     - Clone this repository to your local machine using the following command:
 
     Clone this repository
-    git clone https: [https://github.com/Mowlidharan/Ciago_crime_analyzer.git](https://github.com/Mowlidharan/Chicago_crime_analyzer.git)
+    git clone https: https://github.com/Mowlidharan/Chicago_crime_analyzer.git
 
     run the main.ipynb file
 
